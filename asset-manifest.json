@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tejas-fronted1/static/css/main.5b40dc0f.css",
-    "main.js": "/tejas-fronted1/static/js/main.0560a5c6.js",
+    "main.css": "/tejas-fronted1/static/css/main.9157e42f.css",
+    "main.js": "/tejas-fronted1/static/js/main.6b806bad.js",
     "index.html": "/tejas-fronted1/index.html",
-    "main.5b40dc0f.css.map": "/tejas-fronted1/static/css/main.5b40dc0f.css.map",
-    "main.0560a5c6.js.map": "/tejas-fronted1/static/js/main.0560a5c6.js.map"
+    "main.9157e42f.css.map": "/tejas-fronted1/static/css/main.9157e42f.css.map",
+    "main.6b806bad.js.map": "/tejas-fronted1/static/js/main.6b806bad.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b40dc0f.css",
-    "static/js/main.0560a5c6.js"
+    "static/css/main.9157e42f.css",
+    "static/js/main.6b806bad.js"
   ]
 }
